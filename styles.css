@@ -1,0 +1,14 @@
+nav >ul>li{
+    display:inline;
+    margin: 15px;
+}
+nav li >a{
+    text-decoration: solid 2px;
+    font-style: italic;
+    color:brown
+}
+footer{
+    margin: 20px; 
+    text-align: center;
+    clear: both;
+}
